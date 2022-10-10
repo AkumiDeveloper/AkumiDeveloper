@@ -21,4 +21,15 @@ class Akumi():
 if __name__ == '__main__':
     me = Akumi(
     ```
+    
+    
+    ```css
+html {
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	min-height: 100%;
+	overflow: hidden
+}
+```
 
