@@ -13,7 +13,7 @@ class Akumi():
     self.username = "Akumi"
     self.location = "France, Paris"
     self.discord = "akumi#5555"
-    self.telegram = "akumikilla"
+    self.telegram = "akumidev"
 
   def __str__(self):
     return self.name
